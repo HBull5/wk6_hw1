@@ -1,6 +1,4 @@
-# wk6_hw1
-
-## Instructions 
+# wk6_hw1 Instructions
 
 1. get the element node (html element, html entity) of the element with the id of "navbar" assign it to the variable navbar
 2. get the element node (html element, html entity) of the element with the id of "showcase" assign it to the variable showcase
